@@ -1,0 +1,8 @@
+{
+    "afk": {
+        "enabled": false,
+        "message": null,
+        "start": null,
+        "answer": "Im afk right now, I will answer you later."
+    }
+}

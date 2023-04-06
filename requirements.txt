@@ -1,0 +1,4 @@
+python-dotenv
+pyrogram
+tgcrypto
+aiofiles
